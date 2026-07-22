@@ -5,14 +5,16 @@
         "cost": 0,
         "star": 0,
         "is_star": true,
-        "cover": 0
+        "cover": 0,
+        "type": "Movies"
     },
     {
         "name": "Actors 1",
         "lvls": 20,
         "cost": 0,
         "star": 0,
-        "cover": 1
+        "cover": 1,
+        "type": "Actors"
     },
     {
         "name": "Movies 2",
@@ -20,7 +22,8 @@
         "cost": 300,
         "star": 17,
         "is_star": true,
-        "cover": 0
+        "cover": 0,
+        "type": "Movies"
     },
     {
         "name": "Movies 3",
@@ -28,14 +31,16 @@
         "cost": 450,
         "star": 34,
         "is_star": true,
-        "cover": 0
+        "cover": 0,
+        "type": "Movies"
     },
     {
         "name": "Actors 2",
         "lvls": 20,
         "cost": 600,
         "star": 51,
-        "cover": 17
+        "cover": 17,
+        "type": "Actors"
     },
     {
         "name": "Movies 4",
@@ -43,7 +48,8 @@
         "cost": 550,
         "star": 51,
         "is_star": true,
-        "cover": 0
+        "cover": 0,
+        "type": "Movies"
     },
     {
         "name": "Movies 5",
@@ -51,14 +57,16 @@
         "cost": 650,
         "star": 68,
         "is_star": true,
-        "cover": 0
+        "cover": 0,
+        "type": "Movies"
     },
     {
         "name": "Actors 3",
         "lvls": 20,
         "cost": 700,
         "star": null,
-        "cover": 7
+        "cover": 7,
+        "type": "Actors"
     },
     {
         "name": "Movies 6",
@@ -66,14 +74,16 @@
         "cost": 800,
         "star": 85,
         "is_star": true,
-        "cover": 0
+        "cover": 0,
+        "type": "Movies"
     },
     {
         "name": "Actors 4",
         "lvls": 20,
         "cost": 750,
         "star": null,
-        "cover": 25
+        "cover": 25,
+        "type": "Actors"
     },
     {
         "name": "Movies 7",
@@ -81,14 +91,16 @@
         "cost": 1000,
         "star": 102,
         "is_star": true,
-        "cover": 0
+        "cover": 0,
+        "type": "Movies"
     },
     {
         "name": "Actors 5",
         "lvls": 20,
         "cost": 800,
         "star": null,
-        "cover": 31
+        "cover": 31,
+        "type": "Actors"
     },
     {
         "name": "Movies 8",
@@ -96,14 +108,16 @@
         "cost": 1200,
         "star": 119,
         "is_star": true,
-        "cover": 0
+        "cover": 0,
+        "type": "Movies"
     },
     {
         "name": "Actors 6",
         "lvls": 20,
         "cost": 800,
         "star": null,
-        "cover": 35
+        "cover": 35,
+        "type": "Actors"
     },
     {
         "name": "Movies 9",
@@ -111,14 +125,16 @@
         "cost": 1400,
         "star": 136,
         "is_star": true,
-        "cover": 0
+        "cover": 0,
+        "type": "Movies"
     },
     {
         "name": "Actors 7",
         "lvls": 20,
         "cost": 800,
         "star": null,
-        "cover": 24
+        "cover": 24,
+        "type": "Actors"
     },
     {
         "name": "Movies 10",
@@ -126,7 +142,8 @@
         "cost": 1500,
         "star": 153,
         "is_star": true,
-        "cover": 0
+        "cover": 0,
+        "type": "Movies"
     },
     {
         "name": "Plot Summaries 1",
